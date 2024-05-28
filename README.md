@@ -1,3 +1,5 @@
+Updated with MyNearWallet, deployed at: https://token-factory-teal.vercel.app/
+
 # Token Farm
 
 Issue your own token and without touching a line of code. Use the advanced UI features including image processing and integer rounding techniques to create and issue the most sophisticated fungible tokens.
